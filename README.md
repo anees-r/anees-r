@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anees-r
-- 💻 I'm currently working as a Junior Software Engineer @ NAYAtel
+- 💻 I'm currently working as a Senior Software Engineer @ NAYAtel
 - 👀 I’m interested in Web Developent
-- 🌱 I’m currently working on ReactJs, NextJs, ExpressJs, Oracle and PostgreSQL
+- 🌱 I’m currently working on ReactJs, NextJs, ExpressJs, CodeIgniter Oracle and PostgreSQL
 - 📫 Reach me at anees.dev2002@gmail.com
 - ⚡ Fun fact: I'm a passionate digital artist, with infinte love for all expressions of art.
 - 📖 Education: I'm a Bachelors of Software Engineering from COMSATS University Islamabad, Pakistan.
